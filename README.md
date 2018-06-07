@@ -1,4 +1,6 @@
 # PROJECT-A1
-idek
+# SOMETHING
 
-print hello
+function (test){print "thing"}
+
+
